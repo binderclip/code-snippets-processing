@@ -8,7 +8,6 @@ void draw() {
   background(200);
 
   translate(200, 100, -800);
-  //rotateY(PI);
   rotateY(PI / 180 * 45);
   rotateX(PI / 180 * 125);
   rotateZ(PI / 180 * theta);
